@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Environment files
+.env
+.env.*
+config.env
+
+backend/config/config_gmail.env
+backend/config/config.env
+
+
+# Backup Data Files
+backend/data/
+
+# Logs
+*.log
+
+# Build folders
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
