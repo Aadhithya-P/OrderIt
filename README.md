@@ -185,9 +185,9 @@ npm run dev
 
 ## Screenshots
 
-### Home Page
+### Login Page
 
-![Home Page](screenshots/home.png)
+![Login Page](screenshots/login.png)
 
 ### Menu
 
